@@ -6,7 +6,7 @@ Description: ZP Post Slider is a simple plugin that will display your post in a 
 Author: Joe Mar Aparecio
 Author URI: http://joemaraparecio.com
 
-Version: 1.0.0
+Version: 1.1.0
 
 Text Domain: zp-post-slider
 Domain Path: /languages
