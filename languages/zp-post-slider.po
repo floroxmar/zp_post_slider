@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZP Post Slider\n"
+"POT-Creation-Date: 2016-09-09 16:50+0800\n"
+"PO-Revision-Date: 2016-09-09 16:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: ZigzagPress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/zpps-carousel-widget.php:41 include/zpps-post-slider-widget.php:38
+msgid "Read More..."
+msgstr ""
+
+#: include/zpps-carousel-widget.php:46
+msgid "Displays featured posts with carousel"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:55
+msgid "ZP - Post Carousel"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:135 include/zpps-post-slider-widget.php:131
+msgid "(no title)"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:189 include/zpps-post-slider-widget.php:185
+msgid "Read More"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:247 include/zpps-carousel-widget.php:284
+#: include/zpps-post-slider-widget.php:244
+#: include/zpps-post-slider-widget.php:281
+msgid "Title"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:256 include/zpps-post-slider-widget.php:253
+msgid "Category"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:264 include/zpps-post-slider-widget.php:261
+msgid "All Categories"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:271 include/zpps-post-slider-widget.php:268
+msgid "Number of Posts to Show"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:276 include/zpps-post-slider-widget.php:273
+msgid "Number of Posts to Offset"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:281 include/zpps-post-slider-widget.php:278
+msgid "Order By"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:283 include/zpps-post-slider-widget.php:280
+msgid "Date"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:285 include/zpps-post-slider-widget.php:282
+msgid "Parent"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:286 include/zpps-post-slider-widget.php:283
+msgid "ID"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:287 include/zpps-post-slider-widget.php:284
+msgid "Comment Count"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:288 include/zpps-post-slider-widget.php:285
+msgid "Random"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:293 include/zpps-post-slider-widget.php:290
+msgid "Sort Order"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:295 include/zpps-post-slider-widget.php:292
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:296 include/zpps-post-slider-widget.php:293
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:301 include/zpps-post-slider-widget.php:298
+msgid "Image Size"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:314
+msgid "Slides per view"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:318
+msgid "Width of the space between slides(px)"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:322 include/zpps-post-slider-widget.php:311
+msgid "Duration of transition between slides (ms)"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:327 include/zpps-post-slider-widget.php:316
+msgid "Slider navigation"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:331
+msgid "Slider pagination"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:342 include/zpps-post-slider-widget.php:327
+msgid "Show Post Title"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:346 include/zpps-post-slider-widget.php:331
+msgid "Show Post Date"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:351 include/zpps-post-slider-widget.php:336
+msgid "Show Post Author"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:356 include/zpps-post-slider-widget.php:341
+msgid "Show Post Comments"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:360 include/zpps-post-slider-widget.php:345
+msgid "Content Type"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:362 include/zpps-post-slider-widget.php:347
+msgid "Show Content"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:363 include/zpps-post-slider-widget.php:348
+msgid "Show Excerpt"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:364 include/zpps-post-slider-widget.php:349
+msgid "Show Content Limit"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:365 include/zpps-post-slider-widget.php:350
+msgid "No Content"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:368 include/zpps-post-slider-widget.php:353
+msgid "Limit content to"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:370 include/zpps-post-slider-widget.php:355
+msgid "characters"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:376 include/zpps-post-slider-widget.php:361
+msgid "Show Read More?"
+msgstr ""
+
+#: include/zpps-carousel-widget.php:380 include/zpps-post-slider-widget.php:365
+msgid "More Text"
+msgstr ""
+
+#: include/zpps-post-slider-widget.php:43
+msgid "Displays featured posts in a slider"
+msgstr ""
+
+#: include/zpps-post-slider-widget.php:52
+msgid "ZP - Post Slider"
+msgstr ""
+
+#: zp_post_slider.php:56
+#, php-format
+msgid ""
+"Sorry, you cannot run this plugin without <a href=\"%s\">Genesis Framework "
+"%s</a>, or greater."
+msgstr ""
